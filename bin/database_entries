@@ -1,0 +1,10 @@
+create database asmita;
+use employeedb;
+create table info(name varchar(100),adress varchar(100),pno int(100),age int(100),ano int(100),empno int(100),pass varchar(100),designation varchar(100),salary int(100));
+create table lodging_emp(name varchar(100),age int(100),adress varchar(100),contact_no bigint(100),designation varchar(100),salary int (100),username int(100),pass varchar(100));
+create table restro_emp(name varchar(100),age int(100),address varchar(100),phone_number bigint(100),designation varchar(100),salary int(100),emp_no int(100));
+create table customer(Name varchar(100),Nationality varchar(100),address varchar(100),adults int,phone_no bigint,kids int,date varchar(100),roomno int);
+
+ create table rooms(roomno int(100),adult int(100),kids int(100),amount int(100),room_type varchar(100),ac varchar(100));
+ 
+create table customer(Name varchar(100),Nationality varchar(100),address varchar(100),adults int,phone_no bigint,kids int,date varchar(100),roomno int,checkout_date varchar(100));
