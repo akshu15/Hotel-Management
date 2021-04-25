@@ -9,4 +9,10 @@ The project contains:
 2.	Maintaining a proper list of all the people staying in the hotel.
 3.	Generating proper bill slip.
 
+# Project PDF
 [JAVA - Hotel Management Application.pdf](https://github.com/akshu15/Hotel-Management/files/6372822/JAVA.-.Hotel.Management.Application.pdf)
+
+<img width="620" alt="ER Diagram of Hotel Management System-page-001" src="https://user-images.githubusercontent.com/52970601/116007457-74e78080-a62d-11eb-8f89-1f14cdde66a3.png">
+
+<img width="620" alt="hotel2" src="https://user-images.githubusercontent.com/52970601/116007559-ef180500-a62d-11eb-8836-21df5a822712.png">
+
